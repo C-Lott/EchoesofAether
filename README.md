@@ -1,3 +1,4 @@
+[Screen recording 2025-10-16 09.56.15 (2).webm](https://github.com/user-attachments/assets/ab42373f-7d00-481c-bb75-b4ee3eb4ec1b)
 """
 Echoes of the Aether — A Text-Based Fantasy RPG
 Author: Caden & Shelbs
